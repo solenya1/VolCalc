@@ -3,7 +3,7 @@
 
 VolCalc is a volume calculator that contemplates several types of objects as it can be seen below
 
-![VolCalc](https://imgur.com/a/dBLAykA)
+![LOGO](https://imgur.com/u5fhu8g.png)
 
 ## What install to run?
 Nothing! VolCalc is developed with native python and has no import.
