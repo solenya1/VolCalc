@@ -6,7 +6,7 @@ print('''__      __   _  _____      _
     \/ \___/|_|\_____\__,_|_|\___|\n''')
 
 print('-'*50)
-print('Select the object to calculate the volume;')
+print('----- List of Objects that VolCalc can Calculate;')
 print('[1] cube')
 print('[2] cylinder')
 print('[3] Cone')
@@ -16,7 +16,7 @@ print('-'*50)
 
 volume_total = []
 while True:
-    select_object = int(input('Type the number of the object: '))
+    select_object = int(input('Type the number in the left of the object to calculate: '))
     if select_object == 1:
         comp = float(input('Length: '))
         larg = float(input('Width: '))
@@ -60,5 +60,5 @@ while True:
         print(f'Volume: {volume:.2f} m³')
         volume_total.append(volume)
     else:
-        print('OPÇÃO INVALIDA!')
+        print('Option not avaliable...\n Please try again.')
 
