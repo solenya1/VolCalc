@@ -3,7 +3,7 @@
 
 VolCalc is a volume calculator that contemplates several types of objects as it can be seen below
 
-![LOGO]:(https://imgur.com/cZVHikq.png)
+![sample](https://imgur.com/cZVHikq.png)
 
 ## What install to run?
 Nothing! VolCalc is developed with native python and has no import.
@@ -15,6 +15,7 @@ First download the zip file into your directories and extract the files containe
 $ git clone git@github.com:solenya1/VolCalc.git
 ```
 then execute: 
+
 if you use windows:
 ```
 >python main.py
